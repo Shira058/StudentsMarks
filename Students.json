@@ -1,0 +1,56 @@
+[
+  {
+    "id": "123",
+    "fullname": "Hana Lev",
+    "startYear": "2021-04-13",
+    "marks": [
+      100,
+      80,
+      70,
+      58
+    ]
+  },  {
+    "id": "123",
+    "fullname": "Hana Lev",
+    "startYear": "2020-04-13",
+    "marks": [
+      50,
+      40,
+      70,
+      58
+    ]
+  },
+  {
+    "id": "234",
+    "fullname": "Rivka Coan",
+    "startYear": "2019-02-02",
+    "marks": [
+      70,
+      78,
+      98,
+      47
+    ]
+  },
+  {
+    "id": "345",
+    "fullname": "Miriam Rov",
+    "startYear": "2020-02-14",
+    "marks": [
+      100,
+      90,
+      80,
+      70
+    ]
+  },
+  {
+    "id": "345",
+    "fullname": "Shira Dan",
+    "startYear": "2019-05-07",
+    "marks": [
+      50,
+      50,
+      50,
+      70
+    ]
+  }
+]
